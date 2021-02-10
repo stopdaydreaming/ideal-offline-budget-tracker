@@ -17,17 +17,16 @@ Budget Tracker application to allow for offline access and functionality.
 1. Clone/download the code in this repo
 2. Navigate to the location of the code downloaded
 3. Update the database connections/credentials in the `server.js` file
-4. Setup your database using the `seeders\seed.js` file
-3. Run `npm install` to add required packages
-4. Run `npm start` 
-5. Open your browser to localhost with the port address
+4. Run `npm install` to add required packages
+5. Run `npm start` 
+6. Open your browser to localhost with the port address
 ### Steps required to run online
-Click this link to [VIEW APP](#)
+Click this link to [VIEW APP](https://ideal-offline-budget-tracker.herokuapp.com/)
 
 
 ## Usage 
 This code should be used for the purpose of creating/editing code for a Budget Tracker app. 
-![Budget Tracker](#)  
+![Budget Tracker](./public/screenshot.png)  
 
 ## Credits
 1 contributor: @stopdaydreaming  
